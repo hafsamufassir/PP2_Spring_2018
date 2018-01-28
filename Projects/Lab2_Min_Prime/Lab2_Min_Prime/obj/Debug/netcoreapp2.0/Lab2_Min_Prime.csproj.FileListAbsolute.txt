@@ -1,0 +1,11 @@
+/Users/hafsamufassir/Projects/Lab2_Min_Prime/Lab2_Min_Prime/bin/Debug/netcoreapp2.0/Lab2_Min_Prime.deps.json
+/Users/hafsamufassir/Projects/Lab2_Min_Prime/Lab2_Min_Prime/bin/Debug/netcoreapp2.0/Lab2_Min_Prime.runtimeconfig.json
+/Users/hafsamufassir/Projects/Lab2_Min_Prime/Lab2_Min_Prime/bin/Debug/netcoreapp2.0/Lab2_Min_Prime.runtimeconfig.dev.json
+/Users/hafsamufassir/Projects/Lab2_Min_Prime/Lab2_Min_Prime/bin/Debug/netcoreapp2.0/Lab2_Min_Prime.dll
+/Users/hafsamufassir/Projects/Lab2_Min_Prime/Lab2_Min_Prime/bin/Debug/netcoreapp2.0/Lab2_Min_Prime.pdb
+/Users/hafsamufassir/Projects/Lab2_Min_Prime/Lab2_Min_Prime/obj/Debug/netcoreapp2.0/Lab2_Min_Prime.csprojResolveAssemblyReference.cache
+/Users/hafsamufassir/Projects/Lab2_Min_Prime/Lab2_Min_Prime/obj/Debug/netcoreapp2.0/Lab2_Min_Prime.csproj.CoreCompileInputs.cache
+/Users/hafsamufassir/Projects/Lab2_Min_Prime/Lab2_Min_Prime/obj/Debug/netcoreapp2.0/Lab2_Min_Prime.AssemblyInfoInputs.cache
+/Users/hafsamufassir/Projects/Lab2_Min_Prime/Lab2_Min_Prime/obj/Debug/netcoreapp2.0/Lab2_Min_Prime.AssemblyInfo.cs
+/Users/hafsamufassir/Projects/Lab2_Min_Prime/Lab2_Min_Prime/obj/Debug/netcoreapp2.0/Lab2_Min_Prime.dll
+/Users/hafsamufassir/Projects/Lab2_Min_Prime/Lab2_Min_Prime/obj/Debug/netcoreapp2.0/Lab2_Min_Prime.pdb
