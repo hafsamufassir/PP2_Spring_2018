@@ -1,4 +1,0 @@
-/Users/hafsamufassir/Projects/Complex_numbers/Complex_numbers/obj/Debug/netcoreapp2.0/Complex_numbers.csprojResolveAssemblyReference.cache
-/Users/hafsamufassir/Projects/Complex_numbers/Complex_numbers/obj/Debug/netcoreapp2.0/Complex_numbers.csproj.CoreCompileInputs.cache
-/Users/hafsamufassir/Projects/Complex_numbers/Complex_numbers/obj/Debug/netcoreapp2.0/Complex_numbers.AssemblyInfoInputs.cache
-/Users/hafsamufassir/Projects/Complex_numbers/Complex_numbers/obj/Debug/netcoreapp2.0/Complex_numbers.AssemblyInfo.cs
