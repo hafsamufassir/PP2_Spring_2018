@@ -8,8 +8,21 @@ namespace Complex_numbers
 {
     class Complex
     {
-        int a;
-        int b;
+        int a, b;
+        public Complex(int a, int b)
+        {
+            this.a = a;
+            this.b = b;
+        }
+        public static Complex operator +(Complex x, Complex y)
+        {
+            return new Complex(x.a + y.a, x.b + y.b);
+        }
+        public override string ToString()
+        {
+            return this.a + "," + b;
+        }
+
     }
     class Program
     {
@@ -30,16 +43,9 @@ namespace Complex_numbers
             Complex c1 = new Complex(a, b);
             Complex c2 = new Complex(c, d);
 
-            Complex summ = c1 + c2;
-            Complex diff = c1 - c2;
-            Complex prod = c1 * c2;
-            Complex div = c1 / c2;
+           
 
-            Console.WriteLine("Summ of complex numbers is equal to " + summ);
-            Console.WriteLine("Difference of complex numbers is equal to " + diff);
-            Console.WriteLine("Product of complex numbers is equal to " + prod);
-            Console.WriteLine("Quotient of complex numbers is equal to " + d);
-
+            Console.WriteLine(c1+c2);
             Console.ReadKey();
         }
     }
