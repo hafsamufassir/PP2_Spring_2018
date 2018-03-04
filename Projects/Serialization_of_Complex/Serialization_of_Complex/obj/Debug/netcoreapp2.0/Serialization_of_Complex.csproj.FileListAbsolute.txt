@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Projects\Serialization_of_Complex\Serialization_of_Complex\bin\Debug\netcoreapp2.0\Serialization_of_Complex.deps.json
+\\Mac\Home\Documents\Projects\Serialization_of_Complex\Serialization_of_Complex\bin\Debug\netcoreapp2.0\Serialization_of_Complex.runtimeconfig.json
+\\Mac\Home\Documents\Projects\Serialization_of_Complex\Serialization_of_Complex\bin\Debug\netcoreapp2.0\Serialization_of_Complex.runtimeconfig.dev.json
+\\Mac\Home\Documents\Projects\Serialization_of_Complex\Serialization_of_Complex\bin\Debug\netcoreapp2.0\Serialization_of_Complex.dll
+\\Mac\Home\Documents\Projects\Serialization_of_Complex\Serialization_of_Complex\bin\Debug\netcoreapp2.0\Serialization_of_Complex.pdb
+\\Mac\Home\Documents\Projects\Serialization_of_Complex\Serialization_of_Complex\obj\Debug\netcoreapp2.0\Serialization_of_Complex.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\Serialization_of_Complex\Serialization_of_Complex\obj\Debug\netcoreapp2.0\Serialization_of_Complex.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\Serialization_of_Complex\Serialization_of_Complex\obj\Debug\netcoreapp2.0\Serialization_of_Complex.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Projects\Serialization_of_Complex\Serialization_of_Complex\obj\Debug\netcoreapp2.0\Serialization_of_Complex.AssemblyInfo.cs
+\\Mac\Home\Documents\Projects\Serialization_of_Complex\Serialization_of_Complex\obj\Debug\netcoreapp2.0\Serialization_of_Complex.dll
+\\Mac\Home\Documents\Projects\Serialization_of_Complex\Serialization_of_Complex\obj\Debug\netcoreapp2.0\Serialization_of_Complex.pdb
