@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Projects\Ssnake\Ssnake\bin\Debug\netcoreapp2.0\Ssnake.deps.json
+\\Mac\Home\Documents\Projects\Ssnake\Ssnake\bin\Debug\netcoreapp2.0\Ssnake.runtimeconfig.json
+\\Mac\Home\Documents\Projects\Ssnake\Ssnake\bin\Debug\netcoreapp2.0\Ssnake.runtimeconfig.dev.json
+\\Mac\Home\Documents\Projects\Ssnake\Ssnake\bin\Debug\netcoreapp2.0\Ssnake.dll
+\\Mac\Home\Documents\Projects\Ssnake\Ssnake\bin\Debug\netcoreapp2.0\Ssnake.pdb
+\\Mac\Home\Documents\Projects\Ssnake\Ssnake\obj\Debug\netcoreapp2.0\Ssnake.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\Ssnake\Ssnake\obj\Debug\netcoreapp2.0\Ssnake.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\Ssnake\Ssnake\obj\Debug\netcoreapp2.0\Ssnake.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Projects\Ssnake\Ssnake\obj\Debug\netcoreapp2.0\Ssnake.AssemblyInfo.cs
+\\Mac\Home\Documents\Projects\Ssnake\Ssnake\obj\Debug\netcoreapp2.0\Ssnake.dll
+\\Mac\Home\Documents\Projects\Ssnake\Ssnake\obj\Debug\netcoreapp2.0\Ssnake.pdb
