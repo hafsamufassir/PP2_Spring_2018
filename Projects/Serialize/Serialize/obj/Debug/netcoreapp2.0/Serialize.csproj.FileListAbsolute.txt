@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\Projects\Serialize\Serialize\bin\Debug\netcoreapp2.0\Serialize.deps.json
+\\Mac\Home\Documents\Projects\Serialize\Serialize\bin\Debug\netcoreapp2.0\Serialize.runtimeconfig.json
+\\Mac\Home\Documents\Projects\Serialize\Serialize\bin\Debug\netcoreapp2.0\Serialize.runtimeconfig.dev.json
+\\Mac\Home\Documents\Projects\Serialize\Serialize\bin\Debug\netcoreapp2.0\Serialize.dll
+\\Mac\Home\Documents\Projects\Serialize\Serialize\bin\Debug\netcoreapp2.0\Serialize.pdb
+\\Mac\Home\Documents\Projects\Serialize\Serialize\obj\Debug\netcoreapp2.0\Serialize.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\Serialize\Serialize\obj\Debug\netcoreapp2.0\Serialize.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\Serialize\Serialize\obj\Debug\netcoreapp2.0\Serialize.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Projects\Serialize\Serialize\obj\Debug\netcoreapp2.0\Serialize.AssemblyInfo.cs
+\\Mac\Home\Documents\Projects\Serialize\Serialize\obj\Debug\netcoreapp2.0\Serialize.dll
+\\Mac\Home\Documents\Projects\Serialize\Serialize\obj\Debug\netcoreapp2.0\Serialize.pdb
