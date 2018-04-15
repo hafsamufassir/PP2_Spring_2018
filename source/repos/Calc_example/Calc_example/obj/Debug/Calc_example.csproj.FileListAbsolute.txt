@@ -1,0 +1,10 @@
+c:\users\hafsamufassir\source\repos\Calc_example\Calc_example\obj\Debug\Calc_example.csprojResolveAssemblyReference.cache
+c:\users\hafsamufassir\source\repos\Calc_example\Calc_example\obj\Debug\CalcWindowsFormsApplication2.Form1.resources
+c:\users\hafsamufassir\source\repos\Calc_example\Calc_example\obj\Debug\Calc_example.Properties.Resources.resources
+c:\users\hafsamufassir\source\repos\Calc_example\Calc_example\obj\Debug\Calc_example.csproj.GenerateResource.cache
+c:\users\hafsamufassir\source\repos\Calc_example\Calc_example\obj\Debug\Calc_example.csproj.CoreCompileInputs.cache
+c:\users\hafsamufassir\source\repos\Calc_example\Calc_example\bin\Debug\Calc_example.exe.config
+c:\users\hafsamufassir\source\repos\Calc_example\Calc_example\bin\Debug\Calc_example.exe
+c:\users\hafsamufassir\source\repos\Calc_example\Calc_example\bin\Debug\Calc_example.pdb
+c:\users\hafsamufassir\source\repos\Calc_example\Calc_example\obj\Debug\Calc_example.exe
+c:\users\hafsamufassir\source\repos\Calc_example\Calc_example\obj\Debug\Calc_example.pdb

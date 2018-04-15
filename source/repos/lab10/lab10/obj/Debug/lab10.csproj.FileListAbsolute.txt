@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Projects\lab10\lab10\bin\Debug\lab10.exe.config
+\\Mac\Home\Documents\Projects\lab10\lab10\bin\Debug\lab10.exe
+\\Mac\Home\Documents\Projects\lab10\lab10\bin\Debug\lab10.pdb
+\\Mac\Home\Documents\Projects\lab10\lab10\obj\Debug\lab10.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\lab10\lab10\obj\Debug\lab10.Form1.resources
+\\Mac\Home\Documents\Projects\lab10\lab10\obj\Debug\lab10.Properties.Resources.resources
+\\Mac\Home\Documents\Projects\lab10\lab10\obj\Debug\lab10.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Projects\lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects\lab10\lab10\obj\Debug\lab10.exe
+\\Mac\Home\Documents\Projects\lab10\lab10\obj\Debug\lab10.pdb
