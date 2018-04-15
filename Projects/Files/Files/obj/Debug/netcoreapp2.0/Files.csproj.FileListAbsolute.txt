@@ -1,0 +1,11 @@
+/Users/hafsamufassir/Projects/Files/Files/bin/Debug/netcoreapp2.0/Files.deps.json
+/Users/hafsamufassir/Projects/Files/Files/bin/Debug/netcoreapp2.0/Files.runtimeconfig.json
+/Users/hafsamufassir/Projects/Files/Files/bin/Debug/netcoreapp2.0/Files.runtimeconfig.dev.json
+/Users/hafsamufassir/Projects/Files/Files/bin/Debug/netcoreapp2.0/Files.dll
+/Users/hafsamufassir/Projects/Files/Files/bin/Debug/netcoreapp2.0/Files.pdb
+/Users/hafsamufassir/Projects/Files/Files/obj/Debug/netcoreapp2.0/Files.csprojResolveAssemblyReference.cache
+/Users/hafsamufassir/Projects/Files/Files/obj/Debug/netcoreapp2.0/Files.csproj.CoreCompileInputs.cache
+/Users/hafsamufassir/Projects/Files/Files/obj/Debug/netcoreapp2.0/Files.AssemblyInfoInputs.cache
+/Users/hafsamufassir/Projects/Files/Files/obj/Debug/netcoreapp2.0/Files.AssemblyInfo.cs
+/Users/hafsamufassir/Projects/Files/Files/obj/Debug/netcoreapp2.0/Files.dll
+/Users/hafsamufassir/Projects/Files/Files/obj/Debug/netcoreapp2.0/Files.pdb

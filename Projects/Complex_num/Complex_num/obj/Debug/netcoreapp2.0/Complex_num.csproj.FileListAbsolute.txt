@@ -1,0 +1,11 @@
+/Users/hafsamufassir/Projects/Complex_num/Complex_num/obj/Debug/netcoreapp2.0/Complex_num.csprojResolveAssemblyReference.cache
+/Users/hafsamufassir/Projects/Complex_num/Complex_num/obj/Debug/netcoreapp2.0/Complex_num.csproj.CoreCompileInputs.cache
+/Users/hafsamufassir/Projects/Complex_num/Complex_num/obj/Debug/netcoreapp2.0/Complex_num.AssemblyInfoInputs.cache
+/Users/hafsamufassir/Projects/Complex_num/Complex_num/obj/Debug/netcoreapp2.0/Complex_num.AssemblyInfo.cs
+/Users/hafsamufassir/Projects/Complex_num/Complex_num/bin/Debug/netcoreapp2.0/Complex_num.deps.json
+/Users/hafsamufassir/Projects/Complex_num/Complex_num/bin/Debug/netcoreapp2.0/Complex_num.runtimeconfig.json
+/Users/hafsamufassir/Projects/Complex_num/Complex_num/bin/Debug/netcoreapp2.0/Complex_num.runtimeconfig.dev.json
+/Users/hafsamufassir/Projects/Complex_num/Complex_num/bin/Debug/netcoreapp2.0/Complex_num.dll
+/Users/hafsamufassir/Projects/Complex_num/Complex_num/bin/Debug/netcoreapp2.0/Complex_num.pdb
+/Users/hafsamufassir/Projects/Complex_num/Complex_num/obj/Debug/netcoreapp2.0/Complex_num.dll
+/Users/hafsamufassir/Projects/Complex_num/Complex_num/obj/Debug/netcoreapp2.0/Complex_num.pdb
