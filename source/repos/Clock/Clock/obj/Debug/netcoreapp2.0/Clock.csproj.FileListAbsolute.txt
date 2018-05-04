@@ -1,0 +1,11 @@
+C:\Users\hafsamufassir\source\repos\Clock\Clock\obj\Debug\netcoreapp2.0\Clock.csprojResolveAssemblyReference.cache
+C:\Users\hafsamufassir\source\repos\Clock\Clock\obj\Debug\netcoreapp2.0\Clock.csproj.CoreCompileInputs.cache
+C:\Users\hafsamufassir\source\repos\Clock\Clock\obj\Debug\netcoreapp2.0\Clock.AssemblyInfoInputs.cache
+C:\Users\hafsamufassir\source\repos\Clock\Clock\obj\Debug\netcoreapp2.0\Clock.AssemblyInfo.cs
+C:\Users\hafsamufassir\source\repos\Clock\Clock\bin\Debug\netcoreapp2.0\Clock.deps.json
+C:\Users\hafsamufassir\source\repos\Clock\Clock\bin\Debug\netcoreapp2.0\Clock.runtimeconfig.json
+C:\Users\hafsamufassir\source\repos\Clock\Clock\bin\Debug\netcoreapp2.0\Clock.runtimeconfig.dev.json
+C:\Users\hafsamufassir\source\repos\Clock\Clock\bin\Debug\netcoreapp2.0\Clock.dll
+C:\Users\hafsamufassir\source\repos\Clock\Clock\bin\Debug\netcoreapp2.0\Clock.pdb
+C:\Users\hafsamufassir\source\repos\Clock\Clock\obj\Debug\netcoreapp2.0\Clock.dll
+C:\Users\hafsamufassir\source\repos\Clock\Clock\obj\Debug\netcoreapp2.0\Clock.pdb
