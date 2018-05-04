@@ -1,0 +1,11 @@
+c:\users\hafsamufassir\source\repos\FinalPreparation3\FinalPreparation3\bin\Debug\netcoreapp2.0\FinalPreparation3.deps.json
+c:\users\hafsamufassir\source\repos\FinalPreparation3\FinalPreparation3\bin\Debug\netcoreapp2.0\FinalPreparation3.runtimeconfig.json
+c:\users\hafsamufassir\source\repos\FinalPreparation3\FinalPreparation3\bin\Debug\netcoreapp2.0\FinalPreparation3.runtimeconfig.dev.json
+c:\users\hafsamufassir\source\repos\FinalPreparation3\FinalPreparation3\bin\Debug\netcoreapp2.0\FinalPreparation3.dll
+c:\users\hafsamufassir\source\repos\FinalPreparation3\FinalPreparation3\bin\Debug\netcoreapp2.0\FinalPreparation3.pdb
+c:\users\hafsamufassir\source\repos\FinalPreparation3\FinalPreparation3\obj\Debug\netcoreapp2.0\FinalPreparation3.csprojResolveAssemblyReference.cache
+c:\users\hafsamufassir\source\repos\FinalPreparation3\FinalPreparation3\obj\Debug\netcoreapp2.0\FinalPreparation3.csproj.CoreCompileInputs.cache
+c:\users\hafsamufassir\source\repos\FinalPreparation3\FinalPreparation3\obj\Debug\netcoreapp2.0\FinalPreparation3.AssemblyInfoInputs.cache
+c:\users\hafsamufassir\source\repos\FinalPreparation3\FinalPreparation3\obj\Debug\netcoreapp2.0\FinalPreparation3.AssemblyInfo.cs
+c:\users\hafsamufassir\source\repos\FinalPreparation3\FinalPreparation3\obj\Debug\netcoreapp2.0\FinalPreparation3.dll
+c:\users\hafsamufassir\source\repos\FinalPreparation3\FinalPreparation3\obj\Debug\netcoreapp2.0\FinalPreparation3.pdb
