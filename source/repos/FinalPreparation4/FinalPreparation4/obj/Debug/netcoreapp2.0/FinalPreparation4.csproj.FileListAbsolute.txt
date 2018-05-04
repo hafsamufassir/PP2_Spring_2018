@@ -1,0 +1,11 @@
+c:\users\hafsamufassir\source\repos\FinalPreparation4\FinalPreparation4\obj\Debug\netcoreapp2.0\FinalPreparation4.csprojResolveAssemblyReference.cache
+c:\users\hafsamufassir\source\repos\FinalPreparation4\FinalPreparation4\obj\Debug\netcoreapp2.0\FinalPreparation4.csproj.CoreCompileInputs.cache
+c:\users\hafsamufassir\source\repos\FinalPreparation4\FinalPreparation4\obj\Debug\netcoreapp2.0\FinalPreparation4.AssemblyInfoInputs.cache
+c:\users\hafsamufassir\source\repos\FinalPreparation4\FinalPreparation4\obj\Debug\netcoreapp2.0\FinalPreparation4.AssemblyInfo.cs
+c:\users\hafsamufassir\source\repos\FinalPreparation4\FinalPreparation4\bin\Debug\netcoreapp2.0\FinalPreparation4.deps.json
+c:\users\hafsamufassir\source\repos\FinalPreparation4\FinalPreparation4\bin\Debug\netcoreapp2.0\FinalPreparation4.runtimeconfig.json
+c:\users\hafsamufassir\source\repos\FinalPreparation4\FinalPreparation4\bin\Debug\netcoreapp2.0\FinalPreparation4.runtimeconfig.dev.json
+c:\users\hafsamufassir\source\repos\FinalPreparation4\FinalPreparation4\bin\Debug\netcoreapp2.0\FinalPreparation4.dll
+c:\users\hafsamufassir\source\repos\FinalPreparation4\FinalPreparation4\bin\Debug\netcoreapp2.0\FinalPreparation4.pdb
+c:\users\hafsamufassir\source\repos\FinalPreparation4\FinalPreparation4\obj\Debug\netcoreapp2.0\FinalPreparation4.dll
+c:\users\hafsamufassir\source\repos\FinalPreparation4\FinalPreparation4\obj\Debug\netcoreapp2.0\FinalPreparation4.pdb
