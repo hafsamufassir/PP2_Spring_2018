@@ -1,0 +1,11 @@
+c:\users\hafsamufassir\source\repos\FinalPreparation2\FinalPreparation2\bin\Debug\netcoreapp2.0\FinalPreparation2.deps.json
+c:\users\hafsamufassir\source\repos\FinalPreparation2\FinalPreparation2\bin\Debug\netcoreapp2.0\FinalPreparation2.runtimeconfig.json
+c:\users\hafsamufassir\source\repos\FinalPreparation2\FinalPreparation2\bin\Debug\netcoreapp2.0\FinalPreparation2.runtimeconfig.dev.json
+c:\users\hafsamufassir\source\repos\FinalPreparation2\FinalPreparation2\bin\Debug\netcoreapp2.0\FinalPreparation2.dll
+c:\users\hafsamufassir\source\repos\FinalPreparation2\FinalPreparation2\bin\Debug\netcoreapp2.0\FinalPreparation2.pdb
+c:\users\hafsamufassir\source\repos\FinalPreparation2\FinalPreparation2\obj\Debug\netcoreapp2.0\FinalPreparation2.csprojResolveAssemblyReference.cache
+c:\users\hafsamufassir\source\repos\FinalPreparation2\FinalPreparation2\obj\Debug\netcoreapp2.0\FinalPreparation2.csproj.CoreCompileInputs.cache
+c:\users\hafsamufassir\source\repos\FinalPreparation2\FinalPreparation2\obj\Debug\netcoreapp2.0\FinalPreparation2.AssemblyInfoInputs.cache
+c:\users\hafsamufassir\source\repos\FinalPreparation2\FinalPreparation2\obj\Debug\netcoreapp2.0\FinalPreparation2.AssemblyInfo.cs
+c:\users\hafsamufassir\source\repos\FinalPreparation2\FinalPreparation2\obj\Debug\netcoreapp2.0\FinalPreparation2.dll
+c:\users\hafsamufassir\source\repos\FinalPreparation2\FinalPreparation2\obj\Debug\netcoreapp2.0\FinalPreparation2.pdb
