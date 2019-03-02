@@ -1,0 +1,7 @@
+C:\Users\hafsamufassir\source\repos\Graphics\Graphics\obj\Debug\PaintApp.csprojResolveAssemblyReference.cache
+C:\Users\hafsamufassir\source\repos\Graphics\Graphics\obj\Debug\PaintApp.Form1.resources
+C:\Users\hafsamufassir\source\repos\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\hafsamufassir\source\repos\Graphics\Graphics\obj\Debug\PaintApp.csproj.GenerateResource.cache
+C:\Users\hafsamufassir\source\repos\Graphics\Graphics\obj\Debug\PaintApp.csproj.CoreCompileInputs.cache
+C:\Users\hafsamufassir\source\repos\Graphics\Graphics\obj\Debug\Graphics.exe
+C:\Users\hafsamufassir\source\repos\Graphics\Graphics\obj\Debug\Graphics.pdb

@@ -1,0 +1,10 @@
+c:\users\hafsamufassir\source\repos\PrimesLabel\PrimesLabel\obj\Debug\PrimesLabel.csprojResolveAssemblyReference.cache
+c:\users\hafsamufassir\source\repos\PrimesLabel\PrimesLabel\obj\Debug\PrimesLabel.Form1.resources
+c:\users\hafsamufassir\source\repos\PrimesLabel\PrimesLabel\obj\Debug\PrimesLabel.Properties.Resources.resources
+c:\users\hafsamufassir\source\repos\PrimesLabel\PrimesLabel\obj\Debug\PrimesLabel.csproj.GenerateResource.cache
+c:\users\hafsamufassir\source\repos\PrimesLabel\PrimesLabel\obj\Debug\PrimesLabel.csproj.CoreCompileInputs.cache
+c:\users\hafsamufassir\source\repos\PrimesLabel\PrimesLabel\bin\Debug\PrimesLabel.exe.config
+c:\users\hafsamufassir\source\repos\PrimesLabel\PrimesLabel\bin\Debug\PrimesLabel.exe
+c:\users\hafsamufassir\source\repos\PrimesLabel\PrimesLabel\bin\Debug\PrimesLabel.pdb
+c:\users\hafsamufassir\source\repos\PrimesLabel\PrimesLabel\obj\Debug\PrimesLabel.exe
+c:\users\hafsamufassir\source\repos\PrimesLabel\PrimesLabel\obj\Debug\PrimesLabel.pdb
