@@ -1,0 +1,88 @@
+*{
+    background-color: orange;
+
+}
+
+h1{
+    font-family: 'Srisakdi', cursive;
+    font-weight: bold;
+    font-size: 80px;
+    text-align: center;
+}
+
+#grad-hat-img{
+    width: 100px;;
+    height: 100px;
+    clear: both;
+    transform: rotate(330deg);
+    position: relative;
+    left: 65px;
+    margin-bottom: 45px;
+}
+
+#basic-info{
+    padding-bottom: 100px;
+    line-height: 50px;
+    margin-left: 50px;
+}
+#basic-info p{
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+span{
+    color: black;
+}
+h3{
+    font-size: 38px;
+    font-family: 'Srisakdi', cursive;
+    font-weight: bold;
+    color: rgb(183, 3, 0);
+    margin-left: 120px;
+    /* position: relative;
+    top: 120px; */
+}
+
+#scholarship-img{
+    width: 700px;
+    float: right;
+    margin-right: 100px;
+}
+
+#description{
+    /* width: 1000px; */
+}
+
+#description p{
+    margin-left: 160px;
+    margin-right: 150px;
+    line-height: 35px;
+    font-size: 20px;
+}
+ul{
+    margin-left: 160px;
+    line-height: 35px;
+    font-size: 20px;
+}
+
+.wrapper{
+    text-align: center;
+    margin: 30px;
+}
+.button{
+    width: 150px;
+    height: 50px;
+    font-size: 26px;
+    font-family: 'Srisakdi', cursive;
+    font-weight: bold;
+    color: rgb(183, 3, 0);
+    border: solid 3px black;
+    border-radius: 5px;
+}
+.button:hover{
+    background-color:  rgb(255, 182, 0);
+}
+.button:active {
+    background-color: rgb(255, 182, 0);
+    box-shadow: 0 5px#754a00;
+    transform: translateY(4px);
+  }
